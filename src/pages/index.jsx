@@ -20,9 +20,12 @@ export default function Home() {
       <Navbar />
       <main className="px-4 md:px-16">
         <Hero />
-        <Skills />
-        <Projects />
-        <Blogs />
+<Skills />
+<Education />
+<Experience />
+<Projects />
+<Blogs />
+
       </main>
       <Footer />
     </>
