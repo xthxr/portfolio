@@ -12,4 +12,3 @@ export default function ProjectCard({ name, description, stars, url }) {
     </div>
   );
 }
-
