@@ -9,8 +9,8 @@ export default function Hero() {
         <TypeAnimation
           sequence={[
             'a tech enthusiast.', 2000,
-            'a full-stack developer.', 2000,
-            'a SaaS builder.', 2000
+            'an entrepreneur', 2000,
+            'a writer and a poet', 2000
           ]}
           wrapper="span"
           speed={50}
@@ -18,7 +18,7 @@ export default function Hero() {
         />
       </p>
       <p className="mt-6 max-w-xl text-md text-text">
-        A tech enthusiast born on 17th Oct, 2005. I build clean, fast and functional full-stack apps with a love for dark, minimal design.
+        A 19 year old tech enthusiast who builds clean, fast and functional full-stack projects.
       </p>
     </section>
   );
