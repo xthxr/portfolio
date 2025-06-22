@@ -1,4 +1,6 @@
 // File: src/pages/index.jsx
+import Education from '../components/Education';
+import Experience from '../components/Experience';
 import Head from 'next/head';
 import Navbar from '../components/Navbar';
 import Hero from '../components/Hero';
