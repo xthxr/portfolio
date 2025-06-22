@@ -14,7 +14,7 @@ export default function Home() {
     <>
       <Head>
         <title>Athar Akram | xthxr</title>
-        <meta name="description" content="Portfolio of Athar Akram - a tech enthusiast born on 17th Oct, 2005." />
+        <meta name="description" content="Portfolio of Athar Akram (xthxr) - a tech enthusiast born on 17th Oct, 2005 from Kazi Nazrul University" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
