@@ -1,16 +1,24 @@
 [
   {
-    "role": "Founder & Developer",
-    "company": "Judgement (Anime Clothing Brand)",
-    "start": "2024",
+    "role": "Founder & Vice-President",
+    "company": "Terminal Troops",
+    "start": "2025",
     "end": "Present",
-    "description": "Building an exclusive anime-themed fashion brand with tech-driven marketing and secret-society vibes."
+    "description": "Founded and scaling university's official coding club, built a community of 30+ developers."
+"
+  },
+  {
+    "role": "Co-Founder & Technical Lead",
+    "company": "Judgement Studios (Anime Clothing Brand)",
+    "start": "2025",
+    "end": "Present",
+    "description": "The tech guy behind the exclusive anime-themed fashion brand."
   },
   {
     "role": "Campus Ambassador",
     "company": "GeeksforGeeks",
     "start": "2024",
-    "end": "2024",
-    "description": "Promoted workshops and webinars on Data Science and ML for university students."
+    "end": "Present",
+    "description": "Promoted workshops and webinars on Data Science and ML for university students and brought more than a 100 students on the platform."
   }
 ]
