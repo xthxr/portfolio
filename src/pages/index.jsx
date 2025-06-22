@@ -1,8 +1,10 @@
+// File: src/pages/index.jsx
 import Head from 'next/head';
 import Navbar from '../components/Navbar';
 import Hero from '../components/Hero';
 import Projects from '../components/Projects';
 import Blogs from '../components/Blogs';
+import Skills from '../components/Skills';
 import Footer from '../components/Footer';
 
 export default function Home() {
@@ -16,6 +18,7 @@ export default function Home() {
       <Navbar />
       <main className="px-4 md:px-16">
         <Hero />
+        <Skills />
         <Projects />
         <Blogs />
       </main>
@@ -23,4 +26,3 @@ export default function Home() {
     </>
   );
 }
-
